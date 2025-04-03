@@ -1,5 +1,5 @@
 ## Hi there👋
-![Welcome GIF](gifs/Welcome.gif)
+<!--![Welcome GIF](gifs/Welcome.gif)-->
 ![Skills GIF](gifs/Skills.gif)
 
 <!--

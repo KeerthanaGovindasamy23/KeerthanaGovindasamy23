@@ -1,5 +1,5 @@
 ## Hi there👋
-![Welcome GIF](gifs/Welcome.giff)
+![Welcome GIF](gifs/Welcome.gif)
 
 <!--
 **KeerthanaGovindasamy23/KeerthanaGovindasamy23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,6 @@
 
-## Hello👋<!--!## Hello👋
+## Hello👋
+<!--!## Hello👋
 [Welcome GIF](gifs/Welcome.gif)-->
 ![Skills GIF](gifs/Skills.gif)
 
